@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Anime slideshow</title>
+</head>
+<body>
+    <div class="letters">
+        <br>
+        <span class="text1">WElcome To</span><br>
+        <span class="text2">Image Slider</span>  
+    </div>
+    <div class="container">
+        <img src="C:\Users\Jai Surya\Downloads\img 1.webp" >
+        <img src="C:\Users\Jai Surya\Downloads\img 7.webp" >
+        <img src="C:\Users\Jai Surya\Downloads\img 01.jpg" >
+        <img src="C:\Users\Jai Surya\Downloads\img 4.webp" >
+        <img src="C:\Users\Jai Surya\Downloads\img 02.jpg" >
+        <img src="C:\Users\Jai Surya\Downloads\img 6.webp">
+    </div>
+</body>
+</html>   
+
+
+
+
+
+
+
+
